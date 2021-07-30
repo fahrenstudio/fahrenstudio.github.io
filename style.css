@@ -1,0 +1,22 @@
+body{
+    min-height:2500px;
+}
+
+.jumbotron{
+    background-color: #14d48a;
+    padding:2rem 1rem;
+}
+.card-skill{
+    margin-top:100px;
+    padding:3rem;
+}
+.contact{
+    margin-top:100px;
+}
+.Skill{
+    background-color:#14d48a;
+    padding:2rem 1rem;
+}
+.contact_decrip{
+    padding:2rem;
+}
